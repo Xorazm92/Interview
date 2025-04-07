@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Interview](README.md)
+* [OSI modeli va Wiresharkage](README.md)
 * [Page 1](page-1.md)
